@@ -2,7 +2,7 @@
 Convert png to jpg. Keep metadata as exif data.
 
 This code converts png to jpg. Keep metadata as exif data.
-For example, you can take a large number of erotic images you have created with stable diffsion and turn them into jpgs while keeping the prompts and other metadata.
+For example, you can take a large number of erotic images you have created with stable diffusion and turn them into jpgs while keeping the prompts and other metadata.
 
 Running it like this will convert all pngs under the current directory to jpg.
 ```
@@ -17,7 +17,7 @@ I created this because there was no tool that did this for me.
 
 
 pngをjpgに変換する。メタデータをexifデータとして保ったままで。
-たとえば、stable diffsionで作った大量のエロ画像をプロンプトなどのメタデータを保ったままjpgにすることができます。
+たとえば、stable diffusionで作った大量のエロ画像をプロンプトなどのメタデータを保ったままjpgにすることができます。
 
 こんな風に実行すると、カレントディレクトリ以下にあるpngをすべてjpgに変換します。
 ```
